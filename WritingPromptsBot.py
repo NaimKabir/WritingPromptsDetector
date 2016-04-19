@@ -2,6 +2,9 @@
 Writing Prompts Hot Prompts Early Detector
 by Naim Kabir
 
+Learned much of the text sending from OccultBioinformatics:
+https://github.com/OccultBioinformatics/Assembler/blob/master/sendMessage.py
+
 FUNCTION:
 This script will detect hot prompts posted to /r/WritingPrompts before they 
 are seen under the Hot Tab. It will text the prompt titles directly to your
