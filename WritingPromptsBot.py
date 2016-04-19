@@ -36,10 +36,7 @@ fromaddr = 'Your Gmail email address'
 toaddrs  = 'The e-mail address of your phone number'
 
 def TextSend(msg) :
-    '''
-    function takes in an error name (as a string), and sends
-    a text message alerting the user of the error
-    '''
+
     msg = str(msg)
 
     # The actual mail send
